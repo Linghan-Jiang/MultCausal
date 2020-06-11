@@ -15,3 +15,8 @@ MultCausal的代码在```/MultCausal```中；
 2.没有提供清晰的注释，各函数意义或有不明。
 
 3.一些脚本还没有脱离环境。
+
+<br/>
+
+Reference
+姜凌瀚. MultCausal：一种利用多组学数据推断causal基因的统一方法. [硕士学位论文]. 2019
