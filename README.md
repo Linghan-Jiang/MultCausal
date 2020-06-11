@@ -20,4 +20,4 @@ MultCausal的代码在```/MultCausal```中；
 
 **Reference**
 
-姜凌瀚. MultCausal：一种利用多组学数据推断causal基因的统一方法. [硕士学位论文]. 2019
+[姜凌瀚. MultCausal：一种利用多组学数据推断causal基因的统一方法. [硕士学位论文]. 2019](https://kns.cnki.net/kcms/detail/detail.aspx?filename=1019065708.nh&dbcode=CMFD&dbname=CMFDTEMP&v=)
